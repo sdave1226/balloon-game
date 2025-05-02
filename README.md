@@ -43,7 +43,6 @@ Balloon-burst-game/
 
 No build steps or dependencies needed — this is a pure HTML/CSS/JS game.
 
-📸 Game Preview ()
 
 🧑‍💻 Developed By
 Shreeya Dave
